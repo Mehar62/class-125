@@ -1,0 +1,33 @@
+.heading {
+  /* background-color: red !important; */
+  font-size: 23px;
+  width: 100%;
+  margin: 0px;
+  box-shadow: 5px 5px 5px rgba(224, 13, 13, 0.808);
+}
+
+.note {
+  font-size: 15px;
+  color: black;
+}
+
+.copy_right_footer {
+  position: fixed;
+  color: aliceblue;
+  bottom: 0;
+  width: 100%;
+  background-color: grey;
+  line-height: 3;
+  text-align: center;
+}
+
+canvas {
+  border: 5px solid white;
+  border-radius: 20px;
+  box-shadow: 5px 5px 5px gray;
+}
+
+body {
+background: rgb(255,231,0);
+background: radial-gradient(circle, rgba(255,231,0,1) 7%, rgba(136,251,0,1) 34%, rgba(107,255,0,1) 64%, rgba(245,255,0,1) 91%);
+}
